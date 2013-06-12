@@ -6,7 +6,7 @@ A **centralized .bash_history** management system so that you will never crave f
 ### Problem...
 **Have you ever been in annoying situations where**
 * **you lost your precious history** by crashing your box
-* **your history is scattered** across dozens users / hosts / screens
+* **your history is scattered** across dozens of users / hosts / screens
 
 ### Solution !
 **A .bash_history file that is**
