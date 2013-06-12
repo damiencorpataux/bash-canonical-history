@@ -15,3 +15,6 @@ A **centralized .bash_history** management system so that you will never crave f
 * **modulable** (per-host history could be kept pristine using git branches)
 * **handy** (history should reload seamlessly or eye-blinkingly)
 * **fun and simple**
+
+### General
+Would this be a **git-canonical command** that canonicalizes any file in a flexible way ?
