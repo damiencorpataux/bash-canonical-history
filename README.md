@@ -12,7 +12,7 @@ A **centralized .bash_history** management system so that you will never crave f
 **A .bash_history file that is**
 * **centralized** (using a git repo)
 * **hookable** (cleaning, ordering, filtering, regexing definitely)
-* **modulable** (per-host history could be kept pristine using git branches)
+* **modulable** (per-host history could be kept pristine using git branches etc)
 * **handy** (history should reload seamlessly or eye-blinkingly)
 * **fun and simple**
 
