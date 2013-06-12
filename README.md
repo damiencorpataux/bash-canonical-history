@@ -1,7 +1,7 @@
 bash-canonical-history
 ======================
 
-A centralized .bash_history management system so that you will never crave for a bash history line again
+A **centralized .bash_history** management system so that you will never crave for a bash history line again
 
 ### Problem...
 **Have you ever been in annoying situations where**
